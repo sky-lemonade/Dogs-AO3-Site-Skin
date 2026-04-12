@@ -731,9 +731,9 @@ img[src$="/images/skins/iconsets/default/bookmark-hidden.png"] {
 }
 
 p.kudos {
-  padding-left: 3em;
-  background: url("https://64.media.tumblr.com/58ad13dbb4582140e3525f9313d319f0/92b815771c7a1fe1-78/s1280x1920/7cd041d12ea791f0a7d02694295992325e7a7466.png");
-  background-size: 26px 324px;
+  padding-left: 2.7em;
+  background: url("https://64.media.tumblr.com/2074808cda02e2404fc4ff068c340eaf/92b815771c7a1fe1-23/s2048x3072/8956d3755b71911bf6b6c9b764537dd76d02e18e.png");
+  background-size: 25px 300px;
   background-position: top left;
   background-repeat: no-repeat;
   min-height: 112px;
