@@ -391,10 +391,10 @@ url("https://64.media.tumblr.com/bdfed212d092ee15782c257fd61c83e7/255d765ef3a651
 .profile-show.dashboard.region dl.meta {
   border: none;
   box-shadow: none;
-  background: url("https://64.media.tumblr.com/a3b480817e7fa1ff349a9574525515c6/92b815771c7a1fe1-58/s2048x3072/1d426505de2b8362d5bbb703fc893a4bd9b74f11.png");
+  background: url("https://64.media.tumblr.com/8b6a20a794f5a259a323dc592e88d6f9/92b815771c7a1fe1-31/s2048x3072/c9c9e5d939f68cd71774c0b397f636563a948919.png");
   background-position-x: right;
   background-position-y: center;
-  background-size: 80%;
+  background-size: contain;
   background-repeat: no-repeat;
 }
 
