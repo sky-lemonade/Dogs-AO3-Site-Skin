@@ -26,7 +26,7 @@
   background: #f7ebdf;
   padding-top: 5px;
   background-image: url("https://64.media.tumblr.com/ed5eab429ddc860104a4c8b28f6faaaa/1ec08aabfdcec1c7-16/s1280x1920/738393f751ec6d768dcdf3111d8120f96682d61c.jpg");
-  background-size: 48% auto;
+  background-size: 47% auto;
   background-repeat: repeat;
   background-position: center top;
 }
