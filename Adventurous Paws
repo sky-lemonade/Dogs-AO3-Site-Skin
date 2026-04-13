@@ -733,7 +733,7 @@ img[src$="/images/skins/iconsets/default/bookmark-hidden.png"] {
 p.kudos {
   padding-left: 2.7em;
   background: url("https://64.media.tumblr.com/2074808cda02e2404fc4ff068c340eaf/92b815771c7a1fe1-23/s2048x3072/8956d3755b71911bf6b6c9b764537dd76d02e18e.png");
-  background-size: 25px 300px;
+  background-size: 25px 302px;
   background-position: top left;
   background-repeat: no-repeat;
   min-height: 112px;
