@@ -897,7 +897,7 @@ div.dynamic,
   border-bottom: 5px solid #9b6d5e !important;
   border-radius: 50%;
   padding: 0;
-  margin-right: 15px;
+  margin-right: 6px;
   margin-top: 5px;
   overflow: hidden;
   float: left;
